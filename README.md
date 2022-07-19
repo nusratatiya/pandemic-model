@@ -1,4 +1,4 @@
-# Pandemic Model
+# COVID-19 Pandemic Model
 Pandemic Model project for CSCI0390: Spatial Agent-Based Modeling at Middlebury College
 
 A simulation of the spread of COVID on a college campus. The model uses Middlebury College's previously implemented COVID guidelines to simulate the effect of various safety and prevention guidelines. 
