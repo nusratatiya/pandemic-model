@@ -10,7 +10,9 @@ Detailed information provided in the info tab of the file in the Netlogo IDE
 
 ### Installing
 1. Download the Netlogo integrated development environment (IDE) at: 
+
 https://ccl.northwestern.edu/netlogo/download.shtml
+
 2. Download the galaga.nlogo file and store it in the same folder as the downloaded IDE folder
 
 ## Executing the Program
