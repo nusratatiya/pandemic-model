@@ -4,6 +4,8 @@ A simulation of the spread of COVID on a college campus. The model uses Middlebu
 ## Description
 The model simulates using the selected conditions until it reaches the threshold of a COVID outbreak, defined by >75% of the student body becoming infected. As long as the percent of infected students remains below the given threshold, the model will continue to simulate. To the right of the model window, plots and monitors are provided to monitor the model in real-time.
 
+Detailed information provided in the info tab of the file in the Netlogo IDE
+
 ## Getting Started
 
 ### Installing
