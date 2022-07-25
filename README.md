@@ -17,7 +17,7 @@ https://ccl.northwestern.edu/netlogo/download.shtml
 
 2. Download the galaga.nlogo file and store it in the same folder as the downloaded IDE folder
 
-## Executing the Program
+### Executing the Program
 
 1. Navigate to the interface tab
 2. Adjust all filters (sliders and drop-down menus) to your liking through sliders in the left of the window
